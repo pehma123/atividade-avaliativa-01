@@ -4,8 +4,6 @@ Demanda na qual nosso grupo ficou responsavel:
 
 **Uma empresa necessita de um sistema de CRM(Gestão de Relacionamento com o Cliente) para fornecer uma plataforma eficiente e precisa para gerenciar interações com clientes, acompanhar vendas, e otimizar o atendimento ao cliente. O sistema visa aumentar a satisfação do cliente, melhorar a retenção e maximizar as oportunidades de vendas.**
 
- - Aqui podemos apresentar 3 funcionalidades com seus objetivos Essenciais para um Sistema de CRM:
-
 # Gerenciamento Centralizado de Dados do Cliente.
 
   Resumo: Um banco de dados completo e organizado sobre cada cliente. 
