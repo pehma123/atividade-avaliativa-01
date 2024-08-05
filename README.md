@@ -1,4 +1,4 @@
-# ATIVIDADE AVALIATIVA 01
+# Sistema de CRM(Gestão de Relacionamento com o Cliente)
 
 Demanda na qual nosso grupo ficou responsavel:
 
